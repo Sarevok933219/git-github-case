@@ -1,0 +1,15 @@
+Password (will be hidden):
+Success! You are now authenticated. The token information below is already
+stored in the token helper. You do NOT need to run "vault login" again. Future
+requests will use this token automatically.
+
+Key                    Value
+---                    -----
+token                  s.2y4SU3Sk46dK3p2Y8q2jSBwL
+token_accessor         8J125x9SZyB76MI9uF2jSJZf
+token_duration         768h
+token_renewable        true
+token_policies         ["default"]
+identity_policies      []
+policies               ["default"]
+token_meta_username    my-username
